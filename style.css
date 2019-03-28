@@ -1,0 +1,29 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+#large{
+  margin: 30px;
+}
+
+
+#gridcontainer{
+  outline:1px solid black;
+  width:320px;
+  height:320px;
+  margin: 8px 0 0 0;
+}
+
+
+.grid{
+  display: inline-block;
+  height:20px;
+  width:20px;
+  background-color:whitesmoke;
+  outline: 1px solid gray;
+}
+
+input{
+  width: 50px;
+}
